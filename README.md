@@ -12,7 +12,7 @@ Cloudflare Workers AI demo. See [documentation](https://developers.cloudflare.co
 Clone the repository:
 
 ```sh
-git clone https://github.com/remarkablemark/cloudflare-workers-ai-demo.git
+git clone https://github.com/ai-action/cloudflare-workers-ai-demo.git
 cd cloudflare-workers-ai-demo
 ```
 
