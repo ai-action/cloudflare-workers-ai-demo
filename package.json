@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "@cloudflare/vitest-pool-workers": "^0.10.11",
-    "@cloudflare/workers-types": "^4.20251127.0",
+    "@cloudflare/workers-types": "^4.20251128.0",
     "typescript": "^5.9.3",
     "vitest": "3.2.4",
     "wrangler": "^4.51.0"
