@@ -12,7 +12,7 @@ updates:
     groups:
       wrangler:
         patterns:
-          - '@cloudflare/workers-types'
+          - '@cloudflare/*'
           - wrangler
 
   - package-ecosystem: github-actions
