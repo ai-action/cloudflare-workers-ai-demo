@@ -9,6 +9,11 @@ updates:
     directory: /
     schedule:
       interval: daily
+    groups:
+      wrangler:
+        patterns:
+          - '@cloudflare/workers-types'
+          - wrangler
 
   - package-ecosystem: github-actions
     directory: /
